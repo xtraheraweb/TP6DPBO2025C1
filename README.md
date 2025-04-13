@@ -1,17 +1,7 @@
 # JANJI
 Saya Safira Aliyah Azmi dengan NIM 2309209 mengerjakan Tugas Praktikum 6 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-# Flappy Bird Game - Java Swing
-
-Implementasi permainan klasik **Flappy Bird** menggunakan bahasa pemrograman Java dengan GUI berbasis Java Swing.
-
-##  Informasi Umum
-
-**Nama:** Safira Aliyah Azmi  
-**NIM:** 2309209  
-**Kelas:** C1 2023
-
-##  Deskripsi Singkat
+##  Deskripsi 
 
 Program ini merupakan implementasi permainan **Flappy Bird**. Pemain mengendalikan burung yang harus tetap terbang sambil menghindari rintangan berupa pipa yang terus bergerak dari kanan ke kiri. Program menampilkan grafik permainan, mencakup latar belakang, sprite pemain, pipa, skor, dan kontrol permainan.
 
