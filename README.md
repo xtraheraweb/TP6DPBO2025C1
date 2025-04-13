@@ -80,11 +80,11 @@ Program terdiri dari 5 kelas utama:
 
 ##  Fitur Utama
 
-- ✅ Kontrol sederhana (Spasi, ESC, klik, R)
-- ✅ Skor otomatis terhitung setiap lewat pipa
-- ✅ Menu jeda dan restart interaktif
-- ✅ Grafik custom menggunakan `paintComponent`
-- ✅ Deteksi tabrakan pipa dan tanah
+- Kontrol sederhana (Spasi, ESC, klik, R)
+- Skor otomatis terhitung setiap lewat pipa
+- Menu jeda dan restart interaktif
+- Grafik custom menggunakan `paintComponent`
+- Deteksi tabrakan pipa dan tanah
 
 ---
 
@@ -92,11 +92,3 @@ Program terdiri dari 5 kelas utama:
 
 *(Tambahkan screenshot jika ada)*
 
----
-
-##  Cara Menjalankan Program
-
-1. Pastikan Java sudah terinstal.
-2. Compile semua file Java:
-   ```bash
-   javac App.java
