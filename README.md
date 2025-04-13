@@ -1,5 +1,5 @@
 # JANJI
-Saya Datuk Safira Aliyah Azmi dengan NIM 2309209 mengerjakan Tugas Praktikum 6 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Safira Aliyah Azmi dengan NIM 2309209 mengerjakan Tugas Praktikum 6 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Flappy Bird Game - Java Swing
 
