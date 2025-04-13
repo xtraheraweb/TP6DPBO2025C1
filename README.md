@@ -7,7 +7,7 @@ Program ini merupakan implementasi permainan **Flappy Bird**. Pemain mengendalik
 
 ##  Struktur Program
 
-Program terdiri dari 5 kelas utama:
+Program terdiri dari 4 kelas utama:
 
 ### 1. `App.java`
 - **Fungsi:** Titik awal (*entry point*) program.
@@ -26,6 +26,7 @@ Program terdiri dari 5 kelas utama:
   - Deteksi tabrakan dan kondisi game over.
   - Loop permainan menggunakan `Timer`.
   - Menangani input keyboard dan mouse (mulai, jeda, ulang).
+  - `score`: jumlah skor yang didapat pemain
 
 ### 3. `Player.java`
 - **Fungsi:** Mewakili karakter burung yang dikendalikan pemain.
@@ -45,11 +46,6 @@ Program terdiri dari 5 kelas utama:
   - `velocityX`: kecepatan horizontal
   - `passed`: status apakah sudah dilewati pemain
 - **Metode:** Konstruktor dan getter/setter
-
-### 5. `Score.java`
-- **Fungsi:** Menyimpan dan mengelola skor selama permainan berlangsung.
-- **Atribut:**
-  - `score`: jumlah skor yang didapat pemain
 
 ---
 
@@ -90,5 +86,8 @@ Program terdiri dari 5 kelas utama:
 
 ##  Tampilan Permainan
 
-*(Tambahkan screenshot jika ada)*
+![Image](https://github.com/user-attachments/assets/b4768d28-f245-40e6-a55a-e3b4d1bd5187)
+![Image](https://github.com/user-attachments/assets/40a528b6-1992-4e73-bc51-3f6c5fee02d7)
+![Image](https://github.com/user-attachments/assets/35981119-b960-4444-b1cf-4829290b491b)
+![Image](https://github.com/user-attachments/assets/870bd093-d340-46e0-a654-85d73b7b9d57)
 
