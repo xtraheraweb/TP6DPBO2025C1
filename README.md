@@ -78,8 +78,6 @@ Program terdiri dari 4 kelas utama:
 
 - Kontrol sederhana (Spasi, ESC, klik, R)
 - Skor otomatis terhitung setiap lewat pipa
-- Menu jeda dan restart interaktif
-- Grafik custom menggunakan `paintComponent`
 - Deteksi tabrakan pipa dan tanah
 
 ---
